@@ -1,0 +1,145 @@
+lindada try to login at "2020-03-19 16:51:29" , Stat: Fail 
+lindada try to login at "2020-03-19 16:51:35" , Stat: Success 
+lindada upload a file "系统屋下载站使用说明.txt" at 2020-03-19 16:51:56
+lindada try to register at "2020-03-19 16:52:26" , Stat: Fail 
+11 try to register at "2020-03-19 16:52:32" , Stat: Success 
+lindada try to login at "2020-03-19 20:24:14" , Stat: Success 
+lindada download a file "系统屋下载站使用说明.txt" at 2020-03-19 20:24:16
+lindada try to login at "2020-03-19 20:29:40" , Stat: Success 
+lindada upload a file "VMware_5928.zip" at 2020-03-19 20:30:13
+lindada try to login at "2020-03-19 20:31:24" , Stat: Success 
+lindada download a file "VMware_5928.zip" at 2020-03-19 20:31:28
+lindada download a file "使用说明.docx" at 2020-03-19 20:32:04
+lindada download a file "使用说明.docx" at 2020-03-19 20:32:11
+lindada try to login at "2020-03-19 20:32:32" , Stat: Success 
+lindada download a file "系统屋下载站使用说明.txt" at 2020-03-19 20:32:34
+lindada download a file "系统屋下载站使用说明.txt" at 2020-03-19 20:32:43
+lindada try to login at "2020-03-19 20:35:55" , Stat: Success 
+lindada download a file "v2rayNG-v1.1.15.apk" at 2020-03-19 20:35:58
+lindada download a file "系统屋下载站使用说明.txt" at 2020-03-19 20:36:05
+lindada download a file "系统屋下载站使用说明.txt" at 2020-03-19 20:36:15
+lindada download a file "v2rayNG-v1.1.15.apk" at 2020-03-19 20:36:24
+lindada try to login at "2020-03-19 20:37:39" , Stat: Success 
+lindada download a file "v2rayNG-v1.1.15.apk" at 2020-03-19 20:37:47
+lindada download a file "v2rayNG-v1.1.15.apk" at 2020-03-19 20:38:08
+lindada try to login at "2020-03-19 20:39:51" , Stat: Success 
+lindada try to login at "2020-03-19 20:40:56" , Stat: Success 
+lindada download a file "系统屋下载站使用说明.txt" at 2020-03-19 20:41:00
+lindada download a file "VMware_5928.zip" at 2020-03-19 20:41:04
+lindada download a file "VMware_5928.zip" at 2020-03-19 20:41:14
+lindada upload a file "ludashi_baidu.exe" at 2020-03-19 20:42:44
+lindada try to login at "2020-03-19 20:42:57" , Stat: Success 
+lindada upload a file "mathpix_snipping_tool_setup.exe" at 2020-03-19 20:43:08
+lindada download a file "mathpix_snipping_tool_setup.exe" at 2020-03-19 20:43:16
+lindada try to login at "2020-03-19 21:14:09" , Stat: Success 
+lindada try to login at "2020-03-19 21:16:02" , Stat: Success 
+lindada download a file "mathpix_snipping_tool_setup.exe" at 2020-03-19 21:16:08
+lindada upload a file "ssr.sh" at 2020-03-19 21:16:27
+lindada try to login at "2020-03-19 21:18:06" , Stat: Success 
+lindada upload a file "ssr.sh" at 2020-03-19 21:18:19
+lindada download a file "ssr.sh" at 2020-03-19 21:18:29
+lindada try to login at "2020-03-19 21:31:30" , Stat: Success 
+lindada download a file "使用说明.pdf" at 2020-03-19 21:31:40
+lindada upload a file "VMware_5928.zip" at 2020-03-19 21:31:48
+lindada try to login at "2020-03-22 14:20:29" , Stat: Success 
+lindada try to login at "2020-03-25 14:06:35" , Stat: Success 
+lindada try to login at "2020-03-25 14:07:06" , Stat: Success 
+lindada try to login at "2020-03-25 15:30:40" , Stat: Success 
+lindada upload a file "微信图片_20200323160443.png" at 2020-03-25 15:31:29
+lindada upload a file "一种基于聚类和关联分析的电信网络告警预测方法.pdf" at 2020-03-25 15:31:58
+lindada try to login at "2020-03-25 15:34:30" , Stat: Success 
+lindada download a file "一种基于聚类和关联分析的电信网络告警预测方法.pdf" at 2020-03-25 15:34:33
+lindada try to login at "2020-03-25 15:41:10" , Stat: Success 
+lindada upload a file "2019PA-0426-I一种基于聚类和关联分析的电信网络告警预测方法--初稿.docx" at 2020-03-25 15:41:26
+lindada try to login at "2020-05-09 11:53:27" , Stat: Fail 
+root try to login at "2020-05-09 11:54:26" , Stat: Fail 
+root try to login at "2020-05-09 11:54:31" , Stat: Fail 
+root try to login at "2020-05-09 14:46:20" , Stat: Success 
+root try to login at "2020-05-09 14:48:48" , Stat: Success 
+root try to login at "2020-05-09 14:53:13" , Stat: Success 
+root download a file "微信图片_20200323160443.png" at 2020-05-09 14:53:28
+root try to login at "2020-05-09 15:09:11" , Stat: Success 
+root upload a file "新建文本文档.txt" at 2020-05-09 15:09:23
+root download a file "一种基于聚类和关联分析的电信网络告警预测方法.pdf" at 2020-05-09 15:09:39
+123 try to login at "2020-05-10 12:35:30" , Stat: Success 
+123 download a file "一种基于聚类和关联分析的电信网络告警预测方法.pdf" at 2020-05-10 12:36:11
+123 try to login at "2020-05-10 12:38:17" , Stat: Success 
+123 download a file "2019PA-0426-I一种基于聚类和关联分析的电信网络告警预测方法--初稿.docx" at 2020-05-10 12:38:30
+123 try to login at "2020-05-10 23:19:51" , Stat: Success 
+lindada try to login at "2020-05-10 23:21:52" , Stat: Fail 
+123 try to login at "2020-05-10 23:22:00" , Stat: Success 
+123 download a file "微信图片_20200323160443.png" at 2020-05-10 23:22:14
+lindada try to login at "2020-05-10 23:24:11" , Stat: Fail 
+123 try to login at "2020-05-10 23:24:18" , Stat: Success 
+123 upload a file "新建文本文档 (8).txt" at 2020-05-10 23:24:49
+lindada try to login at "2020-05-13 19:55:16" , Stat: Fail 
+123 try to login at "2020-05-13 21:34:53" , Stat: Success 
+l123 try to login at "2020-05-13 21:37:18" , Stat: Fail 
+l123 try to login at "2020-05-13 21:37:23" , Stat: Fail 
+123 try to login at "2020-05-13 21:37:32" , Stat: Success 
+123 try to login at "2020-05-13 21:39:10" , Stat: Success 
+123 try to login at "2020-05-13 21:49:05" , Stat: Success 
+123 try to login at "2020-05-13 22:14:16" , Stat: Success 
+123 upload a file "test1.txt" at 2020-05-13 22:14:38
+123 try to login at "2020-05-13 22:36:33" , Stat: Success 
+123 upload a file "8.jpg" at 2020-05-13 22:37:16
+123 try to login at "2020-05-17 15:38:55" , Stat: Success 
+123 try to login at "2020-05-17 15:43:51" , Stat: Success 
+123 try to login at "2020-05-17 15:53:55" , Stat: Success 
+123 download a file "8.jpg" at 2020-05-17 15:54:04
+123 try to login at "2020-05-17 16:01:57" , Stat: Success 
+123 download a file "test1.txt" at 2020-05-17 16:02:14
+123 try to login at "2020-05-17 16:08:10" , Stat: Success 
+123 download a file "8.jpg" at 2020-05-17 16:08:29
+123 try to login at "2020-05-17 16:29:17" , Stat: Success 
+123 download a file "8.jpg" at 2020-05-17 16:29:25
+123 try to login at "2020-05-17 20:08:46" , Stat: Success 
+123 try to login at "2020-05-17 20:10:06" , Stat: Success 
+123 try to login at "2020-05-17 20:18:23" , Stat: Success 
+123 try to login at "2020-05-17 20:23:52" , Stat: Success 
+123 try to login at "2020-05-17 20:26:08" , Stat: Success 
+123 try to login at "2020-05-17 20:27:05" , Stat: Success 
+123 try to login at "2020-05-17 20:28:16" , Stat: Success 
+123 try to login at "2020-05-17 20:32:37" , Stat: Success 
+123 try to login at "2020-05-17 20:33:48" , Stat: Success 
+123 try to login at "2020-05-17 20:34:23" , Stat: Success 
+123 try to login at "2020-05-17 20:35:00" , Stat: Success 
+123 try to login at "2020-05-17 20:38:01" , Stat: Success 
+123 try to login at "2020-05-17 20:38:24" , Stat: Success 
+123 try to login at "2020-05-17 20:40:27" , Stat: Success 
+123 try to login at "2020-05-17 20:41:17" , Stat: Success 
+123 try to login at "2020-05-17 20:43:52" , Stat: Success 
+123 try to login at "2020-05-17 20:47:08" , Stat: Success 
+123 upload a file "新建文本文档 (2).txt" at 2020-05-17 20:47:38
+123 try to login at "2020-05-24 10:48:39" , Stat: Success 
+123 upload a file "新建文本文档 (9).txt" at 2020-05-24 10:49:19
+123 try to login at "2020-05-24 10:57:29" , Stat: Success 
+123 upload a file "新建文本文档 (4).txt" at 2020-05-24 10:57:43
+123 upload a file "1-7.ppt" at 2020-05-24 10:58:37
+123 try to login at "2020-05-24 11:00:09" , Stat: Success 
+123 try to login at "2020-05-24 11:06:24" , Stat: Success 
+123 try to login at "2020-05-24 11:10:18" , Stat: Success 
+123 try to login at "2020-05-24 11:14:00" , Stat: Success 
+123 try to login at "2020-05-24 11:25:11" , Stat: Success 
+123 try to login at "2020-05-24 11:26:32" , Stat: Success 
+123 upload a file "1-9.ppt" at 2020-05-24 11:26:47
+123 upload a file "1-16.pptx" at 2020-05-24 11:27:24
+123 try to login at "2020-05-24 11:28:30" , Stat: Success 
+123 try to login at "2020-05-24 11:29:26" , Stat: Success 
+123 try to login at "2020-05-24 11:30:10" , Stat: Success 
+123 try to login at "2020-05-24 11:31:36" , Stat: Success 
+123 upload a file "新建文本文档 (9).txt" at 2020-05-24 11:31:57
+123 upload a file "新建文本文档 (4).txt" at 2020-05-24 11:32:25
+123 try to login at "2020-05-24 11:37:21" , Stat: Success 
+123 upload a file "1-7.ppt" at 2020-05-24 11:37:32
+123 download a file "1-7.ppt" at 2020-05-24 11:37:43
+123 try to login at "2020-05-24 11:47:38" , Stat: Success 
+123 download a file "新建文本文档 (9).txt" at 2020-05-24 11:48:00
+123 upload a file "1-9.ppt" at 2020-05-24 11:49:00
+123 upload a file "1-16.pptx" at 2020-05-24 11:49:17
+123 try to login at "2020-05-24 11:49:53" , Stat: Success 
+123 download a file "1-9.ppt" at 2020-05-24 11:50:05
+123 try to login at "2020-05-24 11:52:34" , Stat: Success 
+123 try to login at "2020-05-24 11:52:40" , Stat: Success 
+123 upload a file "新建文本文档 (8).txt" at 2020-05-24 11:52:55
+123 upload a file "新建文本文档 (7).txt" at 2020-05-24 11:53:19
